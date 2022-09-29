@@ -1,1 +1,1 @@
-from .borgle import *
+from .borgle import State, Game
